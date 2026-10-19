@@ -16,7 +16,7 @@ from tqdm import tqdm
 # SETTINGS
 # ============================================================
 
-PROJECT_DIR = Path.home() / "Documents" / "ebird_landcover"
+PROJECT_DIR = Path.home() / "Documents" / "monthly_landcover_ebird"
 
 HOTSPOT_FILE = PROJECT_DIR / "ebird_hotspots" / "localities_clean.shp"
 
